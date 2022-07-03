@@ -78,7 +78,7 @@ print('After feature eng Decision Tree : ' ,accuracy_score(y_test,y_dtp)*100)
 print('After feature eng Naive Bayes : ' ,accuracy_score(y_test,y_nbp)*100)
 
 
-'''
+''' 
 OUTPUT :
 Random forest :  75.48711502199875
 Decision Tree :  63.70835952231301
